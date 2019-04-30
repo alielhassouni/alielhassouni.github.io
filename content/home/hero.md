@@ -3,7 +3,7 @@
 widget = "hero"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 
-title = "Academic"
+title = "i am ali"
 
 # Order that this section will appear in.
 weight = 3
@@ -18,11 +18,11 @@ hero_media = ""
 [background]
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "#4bb4e3"
   gradient_end = "#2b94c3"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -35,10 +35,10 @@ hero_media = ""
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "post/getting-started/"
-  label = "Get Started"
+  label = "your mama"
   icon_pack = "fas"
   icon = "download"
-  
+
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
   label = "View Documentation"

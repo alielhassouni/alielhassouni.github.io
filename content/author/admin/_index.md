@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Ali el Hassouni"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,14 +9,15 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD candidate in Artificial Intelligence"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Vrije Universiteit Amsterdam", url = "https://www.vu.nl/en" },
+                    { name = "Mobiquity Inc Amsterdam", url = "https://www.mobiquityinc.com"}]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -24,8 +25,12 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Machine Learning",
+  "Reinforcement Learning",
+  "Deep Learning",
+  "Simulation",
+  "Personalisation",
+  "Healthcare"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -33,20 +38,16 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Business Analytics, Cum Laude"
+  institution = "Vrije Universiteit Amsterdam"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Business Analytics"
+  institution = "Vrije Universiteit Amsterdam"
+  year = 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,23 +57,32 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:a.el.hassouni@vu.nl".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.nl/citations?user=9Idv_lIAAAAJ&hl=nl&oi=ao"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/alihassouni"
 
+[[social]]
+  icon = "researchgate"
+  icon_pack = "fab"
+  link = "https://www.researchgate.net/profile/Ali_El_Hassouni"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/alielhassouni/"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -82,6 +92,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the <a href="https://www.cs.vu.nl/ci/" target="_blank">Computational Intelligence group</a> at the <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a> (VU) and in <a href="https://www.mobiquityinc.com" target="_blank">Mobiquity's</a> Data Science and Analytics team. I'm interested in data efficient (Deep) Reinforcement Learning (RL) applied to real-world problems. To achieve this I've developed a simulator for daily human behavior/activities powered by generative models (GANs) and recurrent neural networks (LSTMs). The simulator is used as a testbed for novel data efficient RL algorithms. The ultimate aim is transfer learning from simulation to real-world.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My Ph.D. project aims to develop data efficient RL algorithms that can underpin mobile applications and strive to improve the level of personalisation in the health domain. The main objective is to develop methods that allow the app to provide interventions to users in an intelligent and proactive manner by learning to select suitable actions for particular situations. My project supervisors are <a href="https://www.cs.vu.nl/~gusz/" target="_blank"> Gusz Eiben</a> (VU), <a href="https://www.cs.vu.nl/~mhoogen/" target="_blank"> Mark Hoogendoorn</a> (VU) and Vesa Muhonen (Mobiquity).
