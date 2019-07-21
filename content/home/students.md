@@ -61,10 +61,11 @@ Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam
 <b>Generating raw sensor data with Conditional Generative Adversarial Networks</b> - <i>Madelyn Deuten</i> - Ongoing <br>
 Bachelor Computer Science - Vrije Universiteit Amsterdam 
 
-<b>Prediction of churn and Customer Lifetime Value on a subscription-based service using behavioural and transactional data</b> <i>Daniela Zamora Uribe</i> - Ongoing <br>  
+<b>Prediction of churn and Customer Lifetime Value on a subscription-based service using behavioural and transactional data</b><br>  <i>Daniela Zamora Uribe</i> - Ongoing <br> 
 Master thesis Business Analytics - Vrije Universiteit Amsterdam and bunq
 
-
+<b> ECoG-based sleep/wake classification </b> <br> <i>Ricardo Knauwer</i> - Ongoing <br> 
+Master project Artificial Intelligence - Vrije Universiteit Amsterdam and Universitair Medisch Centrum Utrecht
 
 
 
