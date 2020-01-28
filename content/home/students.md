@@ -52,20 +52,30 @@ Research paper Business Analytics - Vrije Universiteit Amsterdam
 <b>Generating mood patterns using CGANs</b> - <i>Steven Postmus</i> - March 2019 <br>
 Master thesis Business Analytics - Vrije Universiteit Amsterdam (Co-supervised with Mark Hoogendoorn)
 
-<b>Improving Deep Clustering via Adversarially Constrained Interpolation</b> - <i>Daniel Lutscher</i> - Ongoing <br>
+<b>Improving Deep Clustering via Adversarially Constrained Interpolation</b> - <i>Daniel Lutscher</i> - August 2019 <br>
 Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam and Braincreators
 
-<b>Using CNNs for time series prediction</b> - <i>Mihail Tomescu</i> - Ongoing <br>
-Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam 
+<b>Prediction of churn and Customer Lifetime Value on a subscription-based service using behavioural and transactional data</b><br>  <i>Daniela Zamora Uribe</i> - August 2019 <br> 
+Master thesis Business Analytics - Vrije Universiteit Amsterdam and bunq
+
+<b> ECoG-based sleep/wake classification </b> <br> <i>Ricardo Knauwer</i> - December 2019 <br> 
+Master project Artificial Intelligence - Vrije Universiteit Amsterdam and Universitair Medisch Centrum Utrecht
 
 <b>Generating raw sensor data with Conditional Generative Adversarial Networks</b> - <i>Madelyn Deuten</i> - Ongoing <br>
 Bachelor Computer Science - Vrije Universiteit Amsterdam 
 
-<b>Prediction of churn and Customer Lifetime Value on a subscription-based service using behavioural and transactional data</b><br>  <i>Daniela Zamora Uribe</i> - Ongoing <br> 
-Master thesis Business Analytics - Vrije Universiteit Amsterdam and bunq
+<b>Using CNNs for time series prediction</b> - <i>Mihail Tomescu</i> - Ongoing <br>
+Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam 
 
-<b> ECoG-based sleep/wake classification </b> <br> <i>Ricardo Knauwer</i> - Ongoing <br> 
-Master project Artificial Intelligence - Vrije Universiteit Amsterdam and Universitair Medisch Centrum Utrecht
+<b>Policy transferability in RL: On-policy and off-policy learning</b> - <i>Sofie de Geus</i> - Ongoing <br>
+Master thesis Business Analytics - Vrije Universiteit Amsterdam and Mobiquity Inc 
+
+
+
+
+
+
+
 
 
 
