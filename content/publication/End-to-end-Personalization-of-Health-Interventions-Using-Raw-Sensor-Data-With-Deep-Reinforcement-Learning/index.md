@@ -1,5 +1,5 @@
 +++
-title = "End-to-end Personalization of Health Interventions Using Raw Sensor Data With Deep Reinforcement Learning (In submission)"
+title = "End-to-end Personalization of Health Interventions Using Raw Sensor Data With Deep Reinforcement Learning"
 date = 2019-02-21T20:55:09+01:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
