@@ -9,12 +9,13 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD candidate in Artificial Intelligence"
+role = "PhD candidate in Artificial Intelligence" / Data scientist
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Vrije Universiteit Amsterdam", url = "https://www.vu.nl/en" },
-                    { name = "Mobiquity Inc Amsterdam", url = "https://www.mobiquityinc.com"}]
+                    { name = "Mobiquity Inc Amsterdam", url = "https://www.mobiquityinc.com"},
+                    { name = "bunq", url = "https://www.bunq.com"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -28,8 +29,9 @@ interests = [
   "Machine Learning",
   "Reinforcement Learning",
   "Deep Learning",
+  "Deep generative models",
   "Simulation",
-  "Personalisation",
+  "Personalization",
   "Healthcare"
 ]
 
@@ -38,6 +40,11 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
+
+[[education.courses]]
+  course = "PhD Candidate"
+  institution = "Vrije Universiteit Amsterdam"
+  year = 2016-2020
 
 [[education.courses]]
   course = "MSc in Business Analytics, Cum Laude"
@@ -62,17 +69,17 @@ user_groups = ["Researchers", "Visitors"]
 #[[social]]
 #  icon = "twitter"
 #  icon_pack = "fab"
-#  link = "https://twitter.com/GeorgeCushen"
+#  link = "https://twitter.com/ali_elhassouni"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.nl/citations?user=9Idv_lIAAAAJ&hl=nl&oi=ao"
+  link = "https://scholar.google.com/citations?user=6cdr43EAAAAJ&hl=en&oi=ao"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/alihassouni"
+  link = "https://github.com/alielhassouni"
 
 [[social]]
   icon = "researchgate"
@@ -92,6 +99,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a Ph.D. candidate in the <a href="https://www.cs.vu.nl/ci/" target="_blank">Computational Intelligence group</a> at the <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a> (VU) and in <a href="https://www.mobiquityinc.com" target="_blank">Mobiquity's</a> Data Science and Analytics team. I'm interested in data efficient (Deep) Reinforcement Learning (RL) applied to real-world problems. To achieve this I've developed a simulator for daily human behavior/activities powered by generative models (GANs) and recurrent neural networks (LSTMs). The simulator is used as a testbed for novel data efficient RL algorithms. The ultimate aim is transfer learning from simulation to real-world.
+I am a Ph.D. candidate in the <a href="https://www.cs.vu.nl/ci/" target="_blank">Computational Intelligence group</a> at the <a href="https://www.cs.vu.nl/en/" target="_blank">Vrije Universiteit Amsterdam</a> (VU) and in <a href="https://www.mobiquityinc.com" target="_blank">Mobiquity's</a> Data Science and Analytics team. I'm interested in data efficient (Deep) Reinforcement Learning (RL) applied to real-world problems. To achieve this I've developed a simulator for daily human behavior/activities powered by generative models (GANs) and recurrent neural networks (LSTMs). The simulator is used as a testbed for novel data efficient RL algorithms. The ultimate aim is applying RL in a real-world e-Health setting using either transfer learning from simulation to real-world or online/batch reinforcement learning.
 
 My Ph.D. project aims to develop data efficient RL algorithms that can underpin mobile applications and strive to improve the level of personalisation in the health domain. The main objective is to develop methods that allow the app to provide interventions to users in an intelligent and proactive manner by learning to select suitable actions for particular situations. My project supervisors are <a href="https://www.cs.vu.nl/~gusz/" target="_blank"> Gusz Eiben</a> (VU), <a href="https://www.cs.vu.nl/~mhoogen/" target="_blank"> Mark Hoogendoorn</a> (VU) and Vesa Muhonen (Mobiquity).

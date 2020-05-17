@@ -1,0 +1,667 @@
+Julius Adebayo	Massachusetts Institute of Technology
+	Charu Aggarwal	IBM
+	Amr Ahmed	Google
+	Nesreen Ahmed	Intel
+	Mohammad Akbari	University College London
+	Leman Akoglu	Carnegie Mellon University
+	Aijun An	York University
+	David Anastasiu	Santa Clara University
+	Annalisa Appice	University Aldo Moro of Bari
+	Gowtham Atluri	University of Cincinnati
+	Martin Atzmueller	Tilburg University
+	Kristi Audette	ACM/KDD 2020
+	Ebrahim Bagheri	Ryerson University
+	Anthony Bagnall	University of East Anglia
+	James Bailey	The University of Melbourne
+	Forrest Sheng Bao	Iowa State University
+	Jie Bao	JD Finance
+	Runxue Bao	University of Pittsburgh
+	Zhifeng Bao	RMIT University
+	Senjuti Basu Roy	NJIT
+	Gustavo Batista	UNSW, Sydney
+	Christian Bauckhage	Fraunhofer
+	Ron Bekkerman	Cherre Inc
+	Souhaib Ben Taieb	University of Mons
+	Austin Benson	Cornell University
+	Tanya Berger-Wolf	University of Illinois at Chicago
+	Michael Berthold	University of Konstanz
+	Alex Beutel	Google
+	Narayan Bhamidipati	Yahoo!
+	Jinbo Bi	University of Connecticut
+	Asia J. Biega	Microsoft
+	Albert Bifet	LTCI, Telecom ParisTech
+	Petko Bogdanov	University at Albany-SUNY
+	Francesco Bonchi	Fondazione ISI
+	Henrik Boström	KTH Royal Institute of Technology
+	Paula Branco	LIAAD-INESC TEC / DCC - FCUP
+	Sebastian Bruch	Google Research
+	Ivan Brugere	Salesforce Research
+	David Buttler	LLNL
+	Klemens Böhm	Karlsruhe Institute of Technology
+	Lei Cai	Washington State University
+	Weidong Cai	The University of Sydney
+	Brais Cancela	LIDIA Group, University of A Coruña
+	Cheng Cao	Amazon
+	Huiping Cao	New Mexico State University
+	Jian Cao	Shanghai Jiao Tong University
+	Lei Cao	Massachusetts Institute of Technology
+	Longbing Cao	Faculty of IT, University of Technology Sydney
+	Xiaochun Cao	Institute of Information Engineering, Chinese Academy of Sciences
+	Mark Carman	Politecnico di Milano
+	James Caverlee	Texas A&M University
+	Chengliang Chai	Tsinghua University
+	Aniket Chakrabarti	Microsoft
+	Tanmoy Chakraborty	IIIT-Delhi, India
+	Varun Chandola	State University of New York at Buffalo
+	Edward Chang	HTC Research
+	Kevin Chang	University of Illinois at Urbana-Champaign
+	Lijun Chang	The University of Sydney
+	Xiaojun Chang	Carnegie Mellon University
+	Harshal Chaudhari	Boston University
+	Sanjay Chawla	Qatar Computing Research Institute, HBKU
+	Bee-Chung Chen	LinkedIn
+	Enhong Chen	University of Science and Technology of China
+	Feng Chen	UT Dallas
+	Huanhuan Chen	University of Science and Technology of China
+	Huiyuan Chen	Case Western Reserve University
+	Lei Chen	The Hong Kong University of Science and Technology
+	Ling Chen	University of Technology, Sydney
+	Lisi Chen	Hong Kong Baptist University
+	Muhao Chen	University of Pennsylvania
+	Songqing Chen	George Mason University
+	Wenlin Chen	Facebook
+	Yiran Chen	Duke University
+	Hong Cheng	The Chinese University of Hong Kong
+	Reynold Cheng	The University of Hong Kong
+	Wei Cheng	NEC Labs America
+	Yurong Cheng	Beijing Institute of Technology
+	Flavio Chierichetti	Sapienza University of Rome
+	Alvin Chin	BMW Group
+	Junghoo Cho	University of California, Los Angeles
+	Lingyang Chu	Simon Fraser University
+	Kun-Ta Chuang	National Cheng Kung University
+	Gao Cong	Nanyang Technological University
+	Diane Cook	Washington State University
+	Paolo Cremonesi	Politecnico di Milano
+	Bin Cui	Peking University
+	Peng Cui	Tsinghua University
+	Zhiyuan Dang	Xidian Univesity
+	Anirban Dasgupta	IIT Gandhinagar
+	Jesse Davis	Katholieke Universiteit Leuven
+	Abir De	MPI-SWS
+	Andre de Carvalho	University of São Paulo
+	Dave Debarr	Microsoft
+	Alex Deng	Microsoft
+	Cheng Deng	Xidian University
+	Dong Deng	Rutgers University
+	Hongbo Deng	Google
+	Pravallika Devineni	devinenip@ornl.gov
+	Giuseppe Di Fatta	University of Reading, UK
+	Ferran Diego Andilla	Telefonica I+D
+	Drew Dimmery	Facebook
+	Bolin Ding	Alibaba Group
+	Hu Ding	University of Science and Technology of China
+	Wei Ding	University of Massachusetts Boston
+	Zhengming Ding	IUPUI
+	Carlotta Domeniconi	George Mason University
+	Yuxiao Dong	Microsoft
+	Jana Doppa	Washington State University
+	Dejing Dou	Computer and Information Science Department, University of Oregon
+	Bo Du	Wuhan University
+	Alessandro Epasto	Google
+	Martin Ester	Simon Fraser University
+	Alex Fabrikant	Google
+	Christos Faloutsos	Carnegie Mellon University
+	Ju Fan	Renmin University of China
+	Hua Fang	University of Massachusetts Dartmouth & Medical School
+	Wei Feng	Hulu
+	Sofia Fernandes	Laboratory of Artificial Intelligence and Decision Support
+	Emilio Ferrara	University of Southern California
+	Carlos Ferreira	LIAAD INESC Porto LA
+	Cesar Ferri	Universitat Politècnica de València
+	Elisa Fromont	Université de Rennes 1
+	Yanjie Fu	University of Central Florida
+	Johannes Fürnkranz	Johannes Kepler University Linz
+	Brian Gallagher	Lawrence Livermore National Laboratory
+	Joao Gama	University of Porto
+	Junhao Gan	The University of Melbourne
+	Auroop Ganguly	Northeastern University
+	Byron Gao	Texas State University
+	Hongchang Gao	
+	Hongyang Gao	Texas A&M University
+	Jing Gao	University at Buffalo
+	Jinyang Gao	Alibaba
+	Shangqian Gao	University of Pittsburgh
+	Hancheng Ge	Amazon.com Inc.
+	Tingjian Ge	University of Massachusetts, Lowell
+	Yong Ge	University of Arizona
+	Johannes Gehrke	Microsoft
+	Xin Geng	Southeast University
+	Kamran Ghasedi Dizaji	University of Pittsburgh
+	Fosca Giannotti	ISTI-CNR
+	Aristides Gionis	Aalto University
+	Alex Gittens	Rensselaer Polytechnic Institute
+	David Gleich	Purdue University
+	Nico Goernitz	TU Berlin
+	Bart Goethals	University of Antwerp
+	Heitor Murilo Gomes	University of Waikato
+	Manuel Gomez Rodriguez	MPI for Software Systems
+	Neil Gong	Duke University
+	Josif Grabocka	University Hildesheim
+	Nicolas Grislain	AlephD
+	Bin Gu	Nanjing University of Information Science and Technology
+	Quanquan Gu	University of California, Los Angeles
+	Sudipto Guha	Amazon
+	Francesco Gullo	UniCredit
+	Long Guo	Alibaba Inc
+	Ting Guo	University of Technology Sydney
+	Manish Gupta	Microsoft
+	Alexander Gutfraind	U of Illinois Chicago
+	Stephan Günnemann	Technical University of Munich
+	Barbara Hammer	Bielefeld University
+	Jiawei Han	University of Illinois at Urbana-Champaign
+	Wook-Shin Han	POSTECH
+	Shuang Hao	Beijing Jiaotong University
+	Satoshi Hara	Osaka University
+	Jingrui He	University of Illinois at Urbana-Champaign
+	Lifang He	University of Pennsylvania
+	Qi He	LinkedIn
+	Xiangnan He	University of Science and Technology of China
+	Jose Hernandez-Orallo	Universitat Politècnica de València
+	Sibylle Hess	Data Mining Group, TU Eindhoven
+	Balázs Hidasi	Gravity R&D
+	Jaakko Hollmén	Aalto University
+	Liangjie Hong	Etsy Inc.
+	Bryan Hooi	National University of Singapore
+	Michael E. Houle	National Institute of Informatics
+	Vagelis Hristidis	UC Riverside
+	Hsun-Ping Hsieh	National Cheng Kung University
+	Chun-Nan Hsu	University of California San Diego
+	Houdong Hu	Microsoft
+	Tianran Hu	College of William and Mary
+	Xia Ben Hu	Texas A&M University
+	Jun Huan	Baidu
+	Chao Huang	University of Notre Dame
+	Feihu Huang	University of Pittsburgh
+	Heng Huang	University of Pittsburgh
+	Junzhou Huang	UT Arlington
+	Sheng-Jun Huang	Nanjing University of Aeronautics and Astronautics
+	Xiao Huang	Texas A&M University
+	Xin Huang	Hong Kong Baptist University
+	Xuanjing Huang	Fudan University
+	Zhouyuan Huo	University of Pittsburgh
+	Facebook Inc	Facebook
+	Stratis Ioannidis	Northeastern University
+	Szymon Jaroszewicz	Institute of Computer Science, Polish Academy of Sciences
+	Shuiwang Ji	Texas A&M University
+	Yantao Jia	Institute of Computing Technology, CAS & Huawei Technologies
+	Daxin Jiang	Microsoft
+	Jiawei Jiang	Tencent
+	Meng Jiang	University of Notre Dame
+	Wenhao Jiang	Tencent
+	Zhe Jiang	the University of Alabama
+	Bo Jin	Dalian University of Technology
+	Fang Jin	Texas Tech University
+	Hongxia Jin	Samsung Electronics
+	Ruoming Jin	Kent State University
+	Wen Jin	none
+	Xiaoming Jin	Tsinghua University
+	Vana Kalogeraki	Athens University of Economics and Business
+	Jaap Kamps	University of Amsterdam
+	Bhargav Kanagal	Google
+	U Kang	Seoul National University
+	Ramakrishnan Kannan	Oak Ridge National Laboratory
+	Murat Kantarcioglu	The University of Texas at Dallas
+	Masayuki Karasuyama	Nagoya Institute of Technology
+	Alexandros Karatzoglou	Google
+	Isak Karlsson	Stockholm University
+	George Karypis	University of Minnesota
+	Hisashi Kashima	Kyoto University/RIKEN
+	Eamonn Keogh	UC Riverside
+	Latifur Khan	UTD
+	Ashish Khetan	Amazon
+	Ari Kobren	UMass Amherst
+	Deguang Kong	Google
+	Xiangnan Kong	Worcester Polytechnic Institute
+	Lars Kotthoff	University of Wyoming
+	Nick Koudas	University of Toronto
+	Nicolas Kourtellis	Telefonica Research
+	Danai Koutra	University of Michigan
+	Stefan Kramer	Johannes Gutenberg University Mainz
+	Rui Kuang	Department of Computer Science and Engineering, University of Minnesota Twin Cities
+	Zhaobin Kuang	Stanford University
+	Nicolas Lachiche	University of Strasbourg
+	Hemank Lamba	Carnegie Mellon University
+	Chao Lan	University of Wyoming
+	Yanyan Lan	ICT
+	Theodoros Lappas	Stevens Institute of Technology
+	Silvio Lattanzi	Google
+	Jae-Gil Lee	Korea Advanced Institute of Science and Technology
+	Kyumin Lee	Worcester Polytechnic Institute
+	Kai Lei	Peking University
+	Kristina Lerman	University of Southern California
+	Cheng-Te Li	National Cheng Kung University
+	Chengkai Li	University of Texas at Arlington
+	Feifei Li	University of Utah
+	Guoliang Li	Tsinghua University
+	Hai Li	Duke University
+	Hang Li	Bytedance AI Lab
+	Jiang Li	Old Dominion University
+	Jianxin Li	Beihang University
+	Jiuyong Li	University of South Australia
+	Juanzi Li	Tsinghua University
+	Jundong Li	University of Virginia
+	Junyi Li	University of Pittsburgh
+	Lei Li	ByteDance AI Lab
+	Liangyue Li	Arizona State University
+	Maosen Li	Xidian University
+	Ming Li	Nanjing University
+	Qi Li	University of Illinois at Urbana-Champaign
+	Rong-Hua Li	Beijing Institute of Technology
+	Rui Li	Shanghai Jiao Tong University
+	Sheng Li	University of Georgia
+	Yaliang Li	Alibaba Group
+	Yang Li	Google
+	Yanhua Li	Worcester Polytechnic Institute (WPI)
+	Yong Li	Tsinghua University
+	Yu-Feng Li	Nanjing University
+	Zhenhui Jessie Li	The Pennsylvania State University
+	Defu Lian	University of Science and Technology of China
+	Hongwei Liang	Microsoft
+	Yingbin Liang	The Ohio State University
+	Jefrey Lijffijt	Ghent University
+	Aristidis Likas	University of Ioannina
+	Chih-Jen Lin	National TaiwanUniv
+	Jessica Lin	George Mason University
+	Jimmy Lin	University of Waterloo
+	Shou-De Lin	National Taiwan University
+	Xuemin Lin	The University of New South Wales
+	Yuewei Lin	Brookhaven National Laboratory
+	Bin Liu	IBM TJ Watson Research Center
+	Bing Liu	University of Illinois at Chicago
+	Chuanren Liu	University of Tennessee
+	Guannan Liu	Beihang University
+	Guimei Liu	Institute for Infocomm Research
+	Hao Liu	Baidu Research
+	Hongfu Liu	Brandeis University
+	Huan Liu	Arizona State University
+	Jie Liu	Nankai University
+	Kai Liu	Colorado School of Mines
+	Kefei Liu	University of Pennsylvania
+	Ninghao Liu	Texas A&M University
+	Qi Liu	University of Science and Technology of China
+	Sijia Liu	
+	Tongliang Liu	The University of Sydney
+	Wei Liu	University of Technology, Sydney
+	Yong Liu	Nanyang Technological University
+	Zheng Liu	MSRA
+	David Lo	Singapore Management University
+	Mingsheng Long	Tsinghua University
+	Can Lu	The Chinese University of Hong Kong
+	Chang-Tien Lu	Virginia Tech
+	Hua Lu	Aalborg University
+	Wei Lu	LinkedIn Corporation
+	Dijun Luo	Tencent AI Lab
+	Jiebo Luo	University of Rochester
+	Lei Luo	Pitt
+	Ping Luo	Institute of Computing Technology, CAS; University of Chinese Acadamy of Sciences
+	Yong Luo	Nanyang Technological University
+	Fenglong Ma	The Pennsylvania State University
+	Richard Maclin	University of Minnesota
+	Michael Mahoney	University of California, Berkeley
+	Arun Maiya	Institute for Defense Analyses
+	Hiroshi Mamitsuka	Kyoto University / Aalto University
+	Silviu Maniu	Universite Paris-Sud
+	Cecilia Mascolo	University of Cambridge
+	Michael Mathioudakis	University of Helsinki
+	Charalampos Mavroforakis	Facebook
+	Ryan Mcbride	Simon Fraser University
+	João Mendes-Moreira	University of Porto
+	Chuishi Meng	JD Intelligent City Research
+	Rui Meng	BNU-HKBU United International College
+	Weiyi Meng	Department of Computer Science, Binghamton University
+	Lucas Mentch	University of Pittsburgh
+	Vangelis Metsis	Texas State University
+	Pauli Miettinen	University of Eastern Finland
+	Amanda Minnich	Lawrence Livermore National Lab
+	Dunja Mladenic	Jozef Stefan Institute
+	Nicholas Monath	University of Massachusetts Amherst
+	Nuno Moniz	INESC TEC / University of Porto
+	Sebastian Moreno	Universidad Adolfo Ibañez
+	Davide Mottin	Aarhus University
+	Cun Mu	Jet.com, Inc./Walmart Labs
+	Abdullah Mueen	University of New Mexico
+	Subhabrata Mukherjee	Microsoft
+	Sathappan Muthiah	Virginia Tech
+	Emmanuel Müller	University of Bonn
+	Feng Nan	amazon
+	Mirco Nanni	KDD-Lab ISTI-CNR Pisa
+	Olfa Nasraoui	University of Louisville
+	Wilfred Ng	The Hong Kong University of Science and Technology
+	Feiping Nie	Northwestern Polytechnical University
+	Liqiang Nie	Shandong University
+	Athanasios N. Nikolakopoulos	Digital Technology Center, University of Minnesota
+	Xia Ning	The Ohio State University
+	Yue Ning	Stevens Institute of Technology
+	Di Niu	University of Alberta
+	Wei Niu	Amazon
+	Ana Nogueira	LIAAD - INESC TEC
+	Tim Oates	University of Maryland Baltimore County
+	Zoran Obradovic	Temple University
+	Min-Hwan Oh	Columbia University
+	Varun Ojha	University of Reading
+	Rita P. Ribeiro	University of Porto
+	Gerhard Paass	Fraunhofer
+	Aditya Pal	Pinterest
+	Rong Pan	Sun Yat-sen University
+	Shirui Pan	University of Technology, Sydney
+	Weike Pan	Shenzhen University
+	Guansong Pang	The University of Adelaide
+	Evangelos Papalexakis	University of California Riverside
+	Panagiotis Papapetrou	Stockholm University
+	Laurence Park	Western Sydney University
+	Nikos Parotsidis	Google
+	Vladimir Pavlovic	Rutgers University
+	Dino Pedreschi	Dipartimento di Informatica, Univ. di Pisa
+	Jian Pei	Simon Fraser University
+	Wen-Chih Peng	National Chiao Tung University
+	Bryan Perozzi	Google
+	Francois Petitjean	Monash University
+	Nico Piatkowski	AI Group, TU Dortmund
+	Claudia Plant	Research Group Data Mining, University of Vienna, ds:UniVie
+	Ronaldo Prati	Universidade Federal do ABC - UFABC
+	Ricardo Prudencio	Informatics Center, UFPE
+	Buyue Qian	Xi'an Jiaotong University
+	Lu Qin	University of Technology, Sydney
+	Minghui Qiu	Alibaba
+	Naren Ramakrishnan	Virginia Tech
+	Huzefa Rangwala	George Mason University
+	Sayan Ranu	IIT Delhi
+	Jinfeng Rao	University of Maryland
+	Weixiong Rao	Tongji University
+	Ahmed Rashed	Information Systems and Machine Learning Lab (ISMLL), Institute of Computer Science, University of Hildesheim
+	Chedy Raïssi	INRIA
+	Xiang Ren	University of Southern California
+	Steffen Rendle	Google
+	Chiara Renso	ISTI-CNR, Pisa, Italy
+	Bruno Ribeiro	Purdue University
+	Matteo Riondato	Amherst College
+	Marko Robnik-Sikonja	University of Ljubljana
+	Daniel Rodriguez	The University of Alcalá
+	Stefan Rueping	Fraunhofer
+	Yasushi Sakurai	Osaka University
+	Saket Sathe	IBM
+	Lars Schmidt-Thieme	University of Hildesheim
+	Assaf Schuster	Technion
+	Thomas Seidl	Ludwig-Maximilians-Universitaet Muenchen (LMU Munich)
+	Mohak Shah	LG Electronics
+	Neil Shah	Snap Research
+	Ying Shan	Tencent
+	Shuo Shang	Inception Institute of Artificial Intelligence
+	Jie Shao	University of Science and Technology of China
+	Junming Shao	University of Science and Technology of China
+	Ming Shao	UMass Dartmouth
+	Yingxia Shao	BUPT
+	Amarda Shehu	George Mason University
+	Huawei Shen	Chinese Academy of Sciences
+	Wei Shen	Nankai University
+	Yanyan Shen	Shanghai Jiao Tong University
+	Yi-Dong Shen	Institute of Software, the Chinese Academy of Sciences
+	Victor Sheng	Texas Tech University
+	Chuan Shi	Beijing University of Posts and Telecommunications
+	Xiaogang Shi	Tencent
+	Xinghua Shi	Temple University
+	Kyuseok Shim	Seoul National University
+	Kijung Shin	Korea Advanced Institute of Science and Technology
+	Prashant Shiralkar	
+	Diego Silva	Universidade Federal de São Carlos
+	Gyorgy Simon	University of Minnesota
+	Ambuj Singh	University of California, Santa Barbara
+	Kaushik Sinha	Wichita State University
+	Stavros Sintos	Duke University
+	Steven Skiena	Dept. of Computer Science, Stony Brook University
+	Kevin Small	Amazon
+	Dongjin Song	NEC Labs America
+	Guojie Song	Room 2307 in Science Building Two, Peking University, Beijing, China
+	Shaoxu Song	Tsinghua University
+	Yangqiu Song	The Hong Kong University of Science and Technology
+	Sucheta Soundarajan	Syracuse University
+	Mauro Sozio	Télécom ParisTech
+	Dimitris Spathis	University of Cambridge
+	Jaideep Srivastava	University of Minnesota
+	Harald Steck	Netflix
+	Giovanni Stilo	Department of Information Engineering, Computer Science and Mathematics - Università degli Studi dell'Aquila
+	Gerd Stumme	University of Kassel
+	Lu Su	The State University of New York at Buffalo
+	Yu Su	The Ohio State University
+	Mahito Sugiyama	National Institute of Informatics
+	Hailong Sun	Beihang University
+	Huan Sun	The Ohio State University
+	Jimeng Sun	Georgia Institute of Technology
+	Leilei Sun	Beihang University
+	Lichao Sun	University of Illinois at Chicago
+	Yizhou Sun	University of California, Los Angeles
+	Zhaonan Sun	IBM
+	Einoshin Suzuki	Kyushu University
+	Andrea Tagarelli	DIMES, University of Calabria
+	Rikiya Takahashi	Man AHL
+	Pang-Ning Tan	Michigan State University
+	Jiaxi Tang	Simon Fraser University
+	Jie Tang	Tsinghua University
+	Jiliang Tang	Michigan State University
+	Lu-An Tang	NEC Labs America
+	Nan Tang	Qatar Computing Research Institute, HBKU
+	Yufei Tang	Florida Atlantic University
+	Dacheng Tao	The University of Sydney
+	Yufei Tao	The Chinese University of Hong Kong
+	Nikolaj Tatti	University of Helsinki
+	Yi Tay	Nanyang Technological University
+	Alexandre Termier	Université de Rennes 1
+	Evimaria Terzi	Boston University
+	Eno Thereska	Amazon
+	Saravanan Thirumuruganathan	Qatar Computing Research Institute
+	Hanghang Tong	University of Illinois at Urbana-Champaign
+	Yongxin Tong	Beihang University
+	Panayiotis Tsaparas	University of Ioannina
+	Vincent Tseng	National Chiao Tung University
+	Charalampos Tsourakakis	Harvard University
+	Niall Twomey	University of Bristol
+	Nikolaos Tziortziotis	Tradelab
+	Fabio Vandin	University of Padova
+	Sergei Vassilvitskii	Google
+	Michalis Vazirgiannis	Department of Informatics, AUEB
+	Bruno Veloso	LIAAD - INESC TEC
+	Saurabh Verma	University of Minnesota
+	Michail Vlachos	University of Lausanne, Faculty of Business and Economics
+	Jilles Vreeken	Helmholtz Center for Information Security
+	Huaiyu Wan	Beijing Jiaotong University
+	Can Wang	Zhejiang University
+	Chang-Dong Wang	Sun Yat-sen University
+	Chaokun Wang	Tsinghua University
+	Chenguang Wang	IBM
+	Chi Wang	Microsoft
+	Dong Wang	University of Notre Dame
+	Haishuai Wang	Harvard University
+	Hao Wang	A.I. Labs, Alibaba Group
+	Hongning Wang	University of Virginia
+	Hongzhi Wang	Harbin Institute of Technology
+	Hua Wang	Colorado School of Mines
+	Jiannan Wang	Simon Fraser University
+	Jianyong Wang	Tsinghua University
+	Jie Wang	University of Science and Technology of China
+	Jingyuan Wang	Beihang University
+	Ke Wang	Simon Fraser University
+	Lidan Wang	University of Maryland
+	Pinghui Wang	Xi'an Jiaotong University
+	Shusen Wang	Stevens Institute of Technology
+	Sibo Wang	The Chinese University of Hong Kong
+	Suhang Wang	The Pennsylvania State University
+	Ting Wang	Lehigh University
+	Wei Wang	University of California, Los Angeles
+	Weiqing Wang	Monash University
+	Xiang Wang	Google
+	Xiao Wang	Beijing University of Posts and Telecommunications
+	Xiaoqian Wang	Purdue University
+	Xin Wang	Tianjin University
+	Yaqing Wang	University at Buffalo, SUNY
+	Zeke Wang	Zhejiang University
+	Zhengyang Wang	Texas A&M University
+	Ingmar Weber	Qatar Computing Research Institute
+	Hao Wei	Amazon
+	Zhi Wei	NJIT
+	Tim Weninger	University of Notre Dame
+	Tianyu Wo	Beihang University
+	Ran Wolff	Yahoo
+	Stefan Wrobel	Fraunhofer IAIS & Univ. of Bonn
+	Fei Wu	The Pennsylvania State University
+	Jia Wu	Macquarie University
+	Liang Wu	Airbnb, Inc.
+	Lingfei Wu	IBM Research AI
+	Sai Wu	Zhejiang University
+	Weili Wu	Dept of Computer Science, University of Texas at Dallas
+	Xindong Wu	MiningLamp Software Systems, Beijing, China
+	Xintao Wu	University of Arkansas
+	Yao Wu	Twitter Inc
+	Yinghui Wu	Washington State University
+	Yongkai Wu	University of Arkansas
+	Yinglong Xia	Futurewei Technologies
+	Wenhan Xian	University of Pittsburgh
+	Yu Xiang	University of Utah
+	Houping Xiao	Georgia State University
+	Keli Xiao	Stony Brook University
+	Xiaokui Xiao	National University of Singapore
+	Yanghua Xiao	Fudan University
+	Sihong Xie	Lehigh University
+	Xing Xie	Microsoft
+	Hui Xiong	Rutgers University
+	An Xu	University of Pittsburgh
+	Chang Xu	The University of Sydney
+	Guandong Xu	University of Technology, Sydney
+	Jian Xu	Alibaba Group
+	Jianpeng Xu	WalmartLabs
+	Jianqiu Xu	Nanjing University of Aeronautics and Astronautics
+	Jie Xu	University of Pittsburgh
+	Tong Xu	University of Science and Technology of China
+	Xiaowei Xu	University of Arkansas, Little Rock
+	Takeshi Yamada	NTT
+	Keisuke Yamazaki	National Institute of Advanced Industrial Science and Technology (AIST)
+	Da Yan	The University of Alabama at Birmingham
+	Jiexi Yan	
+	Junchi Yan	Shanghai Jiao Tong University
+	Rui Yan	Peking University
+	De-Nian Yang	Academia Sinica
+	Hongxia Yang	Alibaba Group
+	Jingyuan Yang	George Mason University
+	Liu Yang	Google; University of Massachusetts Amherst
+	Peilin Yang	Twitter Inc.
+	Qian Yang	Tsinghua University
+	Sen Yang	LinkedIn
+	Shuang Yang	Ant Financial
+	Tao Yang	University of California at Santa Barbara
+	Tong Yang	Peking University
+	Xiaochun Yang	Northeastern University
+	Yang Yang	University of Science and Technology of China
+	Yang Yang	Zhejiang University
+	Yu Yang	City University of Hong Kong
+	Zhi Yang	Peking University
+	Huaxiu Yao	The Pennsylvania State University
+	Junjie Yao	East China Normal University
+	Lina Yao	The University of New South Wales
+	Yuan Yao	Nanjing University
+	Zijun Yao	IBM
+	Yanfang Ye	
+	Chin-Chia Michael Yeh	Visa Research
+	Mi-Yen Yeh	Institute of Information Science, Academia Sinica
+	Xiuwen Yi	JD Intelligent Cities Research
+	Hongzhi Yin	The University of Queensland
+	Jianhua Yin	Shandong University
+	Jie Yin	The University of Sydney
+	Dantong Yu	New Jersey Institute of Technology
+	Guoxian Yu	Southwest University, China
+	Hsiang-Fu Yu	Amazon
+	Hwanjo Yu	POSTECH
+	Jeffrey Xu Yu	The Chinese University of Hong Kong
+	Lele Yu	Tencent Incorporation
+	Linyun Yu	Bytedance Inc
+	Philip Yu	University of Illinois at Chicago
+	Rose Yu	University of Southern California
+	Wenchao Yu	University of California, Los Angeles
+	Yang Yu	Nanjing University
+	Yanwei Yu	Yantai University
+	Hao Yuan	Texas A&M University
+	Nicholas Jing Yuan	Huawei
+	Shuhan Yuan	Utah State University
+	Ye Yuan	NEU
+	Muhammad Bilal Zafar	Bosch Center for Artificial Intelligence
+	Reza Zafarani	Syracuse University
+	Nayyar Zaidi	Monash University
+	Mohammed Zaki	Rensselaer Polytechnic Institute
+	Gerson Zaverucha	Federal University of Rio de Janeiro (UFRJ)
+	De-Chuan Zhan	Nanjing University
+	Liang Zhan	University of Pittsburgh
+	Aidong Zhang	University of Virginia
+	Baichuan Zhang	Facebook
+	Chao Zhang	Georgia Institute of Technology
+	Dongxiang Zhang	Zhejiang University
+	Duo Zhang	Pinterest
+	Jiawei Zhang	Florida State University
+	Jing Zhang	Nanjing University of Science and Technology
+	Jing Zhang	Renmin University of China
+	Junbo Zhang	JD Intelligent Cities Research
+	Kunpeng Zhang	University of Maryland
+	Lefei Zhang	Wuhan University
+	Lijun Zhang	Nanjing University
+	Lu Zhang	University of Arkansas
+	Meihui Zhang	Beijing Institute of Technology
+	Min-Ling Zhang	Southeast University
+	Nan Zhang	Kogod School of Business, American University
+	Peng Zhang	Ant Financial Services Group
+	Ping Zhang	The Ohio State University
+	Qingsong Zhang	School of Electronic Engineering, Xidian University
+	Shichao Zhang	Guangxi Normal University
+	Teng Zhang	nju
+	Wei Zhang	East China Normal University
+	Weinan Zhang	Shanghai Jiao Tong University
+	Wenjie Zhang	The University of New South Wales
+	Xianchao Zhang	Dalian University of Technology
+	Xiang Zhang	The Pennsylvania State University
+	Xiangliang Zhang	King Abdullah University of Science and Technology
+	Xuchao Zhang	Virginia Tech
+	Ya Zhang	Shanghai Jiao Tong University
+	Yanfu Zhang	University of Pittsburgh
+	Ying Zhang	University of Technology, Sydney
+	Zhao Zhang	Hefei University of Technology
+	Zhiwei Zhang	Hong Kong Baptist University
+	Bo Zhao	Pinterest
+	Hongke Zhao	Tianjin University
+	Liang Zhao	George Mason University
+	Peixiang Zhao	Florida State University
+	Ying Zhao	Tsinghua University
+	Zhou Zhao	Zhejiang University
+	Shandian Zhe	University of Utah
+	Elena Zheleva	University of Illinois at Chicago
+	Feng Zheng	Southern University of Science and Technology
+	Kai Zheng	“University of Electronic Science and Technology of China”
+	Weiguo Zheng	Fudan University
+	Yudian Zheng	Twitter
+	Baojian Zhou	University at Albany
+	Chang Zhou	Alibaba Group
+	Chuan Zhou	Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+	Dawei Zhou	University of Illinois at Urbana-Champaign
+	Jiayu Zhou	Michigan State University
+	Jingbo Zhou	baidu
+	Wenjun Zhou	University of Tennessee Knoxville
+	Xiaofang Zhou	The University of Queensland
+	Xun Zhou	University of Iowa
+	Yang Zhou	Auburn University
+	Zhi-Hua Zhou	Nanjing University
+	Chen Zhu	Baidu Talent Intelligence Center
+	Hengshu Zhu	Baidu Inc.
+	Wenwu Zhu	Tsinghua University
+	Xingquan Zhu	Florida Atlantic University
+	Yan Zhu	University of California, Riverside
+	Yanmin Zhu	Shanghai Jiao Tong University
+	Yuanyuan Zhu	Wuhan University
+	Fuzhen Zhuang	Institute of Computing Technology, Chinese Academy of Sciences
+	Albrecht Zimmermann	Université Caen Normandie
+	Marinka Zitnik	Harvard University
