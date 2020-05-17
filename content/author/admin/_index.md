@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD candidate in Artificial Intelligence" / Data scientist
+role = "PhD candidate in Artificial Intelligence / Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -40,11 +40,6 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-
-[[education.courses]]
-  course = "PhD Candidate"
-  institution = "Vrije Universiteit Amsterdam"
-  year = 2016-2020
 
 [[education.courses]]
   course = "MSc in Business Analytics, Cum Laude"
