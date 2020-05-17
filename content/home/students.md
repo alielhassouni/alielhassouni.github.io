@@ -58,17 +58,25 @@ Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam and Braincr
 <b>Prediction of churn and Customer Lifetime Value on a subscription-based service using behavioural and transactional data</b><br>  <i>Daniela Zamora Uribe</i> - August 2019 <br> 
 Master thesis Business Analytics - Vrije Universiteit Amsterdam and bunq
 
+<b>Using pose detection as part of a neural network model for video classification aimed at recognition of human movement</b><br>  <i>Jeroen Borst</i> - August 2019 <br> Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam (Co-supervised)
+
 <b> ECoG-based sleep/wake classification </b> <br> <i>Ricardo Knauwer</i> - December 2019 <br> 
 Master project Artificial Intelligence - Vrije Universiteit Amsterdam and Universitair Medisch Centrum Utrecht
 
-<b>Generating raw sensor data with Conditional Generative Adversarial Networks</b> - <i>Madelyn Deuten</i> - Ongoing <br>
+<b>Using Generative Adversarial Networks (GANs) to Synthesize Sensory Data</b> - <i>Madelyn Deuten</i> - April 2020 <br>
 Bachelor Computer Science - Vrije Universiteit Amsterdam 
 
 <b>Using CNNs for time series prediction</b> - <i>Mihail Tomescu</i> - Ongoing <br>
 Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam 
 
-<b>Policy transferability in RL: On-policy and off-policy learning</b> - <i>Sofie de Geus</i> - Ongoing <br>
+<b>Utilizing Available Data to Warm Start Online Reinforcement Learning.</b> - <i>Sofie de Geus</i> - Ongoing <br>
 Master thesis Business Analytics - Vrije Universiteit Amsterdam and Mobiquity Inc 
+
+<b>Machine learning for the quantified self: Quantified Sleep</b> - <i>Gianluca Truda</i> - Ongoing <br>
+Mini-Master thesis Artificial Intelligence - Vrije Universiteit Amsterdam 
+
+<b>Machine learning for the quantified self: Quantified Sleep</b> - <i>Judith Schermer</i> - Ongoing <br>
+Literature study - Computer Science Master (UVA/VU)
 
 
 
